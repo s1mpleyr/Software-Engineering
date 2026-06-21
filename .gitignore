@@ -1,0 +1,21 @@
+# 编译产物
+*.class
+
+# 文档
+*.docx
+*.doc
+*.pdf
+
+# 生成的图片
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
